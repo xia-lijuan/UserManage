@@ -1,0 +1,4 @@
+dao\UserDao.class
+session\HibernateSessionFactory.class
+controller\UserAction.class
+pojo\User.class

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="test@localhost" uuid="db09a764-9e00-4f5e-b667-6e74b09815b0">
+    <data-source source="LOCAL" name="user_manage@localhost" uuid="db09a764-9e00-4f5e-b667-6e74b09815b0">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/test?serverTimezone=UTC</jdbc-url>
+      <jdbc-url>jdbc:mysql://localhost:3306/user_manage?serverTimezone=UTC</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="src:main:resources:hibernate.cfg.xml/Hibernate" uuid="7dfa82f3-d496-49d2-b130-7b73343b2b56">
       <driver-ref>mysql.8</driver-ref>
