@@ -21,43 +21,43 @@
 
 ## 登录
 
-<img src=".\images\index.jpg" style="zoom:50%;" />
+
 
 输入错误的用户名/密码，提示密码不正确
 
+<img src="https://cdn.jsdelivr.net/gh/xialijuan0/ImageRepo@master/UserManage/index.jpg" alt="index" style="zoom: 50%;" />
 
-
-<img src=".\images\login_fail.jpg" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/xialijuan0/ImageRepo@master/UserManage/login_fail.jpg" alt="login_fail" style="zoom:50%;" />
 
 输入正确的用户名/密码，进入`功能菜单`
 
-<img src=".\images\login_success.jpg" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/xialijuan0/ImageRepo@master/UserManage/login_success.jpg" alt="login_success" style="zoom:50%;" />
 
 
 
 ## 查询用户信息
 
-<img src=".\images\query.jpg" style="zoom:50%;" />
 
 
+<img src="https://cdn.jsdelivr.net/gh/xialijuan0/ImageRepo@master/UserManage/query.jpg" alt="query" style="zoom:50%;" />
 
 
 
 ## 注册
 
+<img src="https://cdn.jsdelivr.net/gh/xialijuan0/ImageRepo@master/UserManage/register.jpg" alt="register" style="zoom:50%;" />
 
 
-<img src=".\images\register.jpg" style="zoom:50%;" />
 
 注册成功，跳转到功能菜单，查询是否添加成功
 
-<img src=".\images\register_query.jpg" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/xialijuan0/ImageRepo@master/UserManage/register_query.jpg" alt="register_query" style="zoom:50%;" />
 
 ## 删除用户
 
 删除前
 
-<img src=".\images\delete_before.jpg" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/xialijuan0/ImageRepo@master/UserManage/delete_before.jpg" alt="delete_before" style="zoom:50%;" />
 
 
 
@@ -65,7 +65,7 @@
 
 删除ID为23的zs后
 
-<img src=".\images\delete_later.jpg" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/xialijuan0/ImageRepo@master/UserManage/delete_later.jpg" alt="delete_later" style="zoom:50%;" />
 
 
 
@@ -75,13 +75,11 @@
 
 修改前
 
-<img src=".\images\update_before.jpg" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/xialijuan0/ImageRepo@master/UserManage/update_before.jpg" alt="update_before" style="zoom: 50%;" />
 
 修改后，这里将ID为20的Kyle的年龄改为了30
 
-<img src=".\images\update_later.jpg" style="zoom:50%;" />
-
-
+<img src="https://cdn.jsdelivr.net/gh/xialijuan0/ImageRepo@master/UserManage/update_later.jpg" alt="update_later" style="zoom:50%;" />
 
 
 
